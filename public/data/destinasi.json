@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "slug": "taman-nasional-komodo",
+    "nama": "Taman Nasional Komodo",
+    "lokasi": "Nusa Tenggara Timur",
+    "image_hero": "/placeholder.svg?height=600&width=1200",
+    "images_gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "koordinat": [-8.5333, 119.4833],
+    "deskripsi": "Taman Nasional Komodo adalah rumah bagi spesies langka komodo, hewan reptil terbesar di dunia. Terletak di Nusa Tenggara Timur, taman ini menawarkan pemandangan alam yang menakjubkan dengan bukit-bukit tandus, savana tropis, dan laut yang indah. Selain komodo, taman ini juga kaya dengan keanekaragaman hayati laut yang spektakuler, menjadikannya situs warisan dunia UNESCO.",
+    "eco_pledge": {
+      "dos": [
+        "Selalu gunakan pemandu lokal (ranger) yang berpengalaman",
+        "Jaga jarak aman minimal 5 meter dari komodo",
+        "Bawa kembali semua sampah Anda dan jangan buang di alam"
+      ],
+      "donts": [
+        "Dilarang memberi makan satwa liar",
+        "Dilarang merokok di area savana dan hutan",
+        "Dilarang mengambil atau merusak terumbu karang dan batu"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "raja-ampat",
+    "nama": "Raja Ampat",
+    "lokasi": "Papua Barat",
+    "image_hero": "/placeholder.svg?height=600&width=1200",
+    "images_gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "koordinat": [-0.5562, 130.5183],
+    "deskripsi": "Raja Ampat adalah surga bagi penyelam dengan terumbu karang terlengkap dan paling indah di dunia. Kepulauan ini terdiri dari empat pulau utama yang dikelilingi oleh karst batu kapur yang menjulang tinggi dari laut biru kristal. Dengan lebih dari 1.500 spesies ikan dan 600 jenis karang, Raja Ampat adalah destinasi diving terbaik untuk pengalaman bawah laut yang tak terlupakan.",
+    "eco_pledge": {
+      "dos": [
+        "Gunakan sunscreen yang reef-safe (aman untuk karang)",
+        "Dukung homestay dan bisnis milik warga lokal",
+        "Hemat penggunaan air bersih dan listrik"
+      ],
+      "donts": [
+        "Dilarang menyentuh atau menginjak terumbu karang",
+        "Dilarang membuang jangkar di area karang",
+        "Dilarang membeli souvenir dari cangkang kura-kura atau hiu"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "danau-toba",
+    "nama": "Danau Toba",
+    "lokasi": "Sumatera Utara",
+    "image_hero": "/placeholder.svg?height=600&width=1200",
+    "images_gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "koordinat": [2.2859, 98.8679],
+    "deskripsi": "Danau Toba adalah danau terbesar dan terdalam di Indonesia, dengan pemandangan yang memukau. Danau vulkanis ini dikelilingi oleh pegunungan hijau dan pulau Samosir yang memiliki budaya Batak yang kaya. Danau Toba menawarkan kombinasi sempurna antara keindahan alam, petualangan outdoor, dan pengalaman budaya lokal yang autentik.",
+    "eco_pledge": {
+      "dos": [
+        "Ikuti jalur hiking yang telah ditentukan",
+        "Beli produk lokal dari pedagang setempat",
+        "Pahami dan hormati budaya Batak lokal"
+      ],
+      "donts": [
+        "Dilarang membuang sampah plastik ke danau",
+        "Dilarang merusak vegetasi dan tanaman lokal",
+        "Dilarang menangkap ikan dengan cara yang merugikan ekosistem"
+      ]
+    }
+  }
+]
